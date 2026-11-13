@@ -8,8 +8,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Pertemuan07_ARSetup.unity
     guid: 723d920e5a945564d9e78b6d99dcc410
+  - enabled: 0
+    path: Assets/Pertemuan 11.unity
+    guid: b034c3de3b31448c797d1fe8dcdb2576
+  - enabled: 1
+    path: Assets/pp11.1.unity
+    guid: 4834f7d8d1fe545b58041a1652e051cc
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 45c5ffbfd1fd0b54891445a18af470d8,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2cb8055740de04eecbd7871b00c1c6b9,
       type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 4419d82f33d36e848b3ed5af4c8da37e,
       type: 3}
