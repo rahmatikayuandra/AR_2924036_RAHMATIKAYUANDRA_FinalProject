@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -5950356144789715057}
   m_Layer: 0
   m_Name: Mercedes Benz GLS 580
-  m_TagString: Untagged
+  m_TagString: ARObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
